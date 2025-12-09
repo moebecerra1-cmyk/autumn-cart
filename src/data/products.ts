@@ -158,7 +158,7 @@ export const products: Product[] = [
     description: "Falda plisada en satén color burdeos.",
     price: 69.99,
     category: "mujeres",
-    image: "https://images.unsplash.com/photo-1583496661160-fb5886a0uj3d?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=400&h=400&fit=crop",
     stock: 25
   },
   {
@@ -205,7 +205,7 @@ export const products: Product[] = [
     description: "Vela de soja con aroma a canela y naranja, 50h de duración.",
     price: 24.99,
     category: "hogar",
-    image: "https://images.unsplash.com/photo-1602607718066-f73a1ca8afdc?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=400&h=400&fit=crop",
     stock: 60,
     featured: true
   },
@@ -270,7 +270,7 @@ export const products: Product[] = [
     description: "Set de 3 marcos de madera de roble en diferentes tamaños.",
     price: 44.99,
     category: "hogar",
-    image: "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1582053433976-25c00369fc93?w=400&h=400&fit=crop",
     stock: 35
   },
   {

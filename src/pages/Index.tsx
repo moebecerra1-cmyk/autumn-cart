@@ -33,13 +33,13 @@ const categories = [
   {
     name: "Hombre",
     href: "/categoria/hombre",
-    image: "https://images.unsplash.com/photo-1516826957135-700dedea698c?w=600&h=800&fit=crop",
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=800&fit=crop",
     count: 10
   },
   {
     name: "Mujeres",
     href: "/categoria/mujeres",
-    image: "https://images.unsplash.com/photo-1485968579169-0d5c1e7d2e61?w=600&h=800&fit=crop",
+    image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=600&h=800&fit=crop",
     count: 10
   },
   {
